@@ -1,0 +1,19 @@
+{
+  "name": "@platdesign/node-nami-api-client",
+  "description": "Nami-Api Client",
+  "author": [
+    {
+      "name": "Christian Blaschke",
+      "email": "mail@platdesign.de",
+      "url": "https://github.com/platdesign"
+    }
+  ],
+  "version": "0.0.0",
+  "dependencies": {
+    "debug": "^3.1.0",
+    "hoek": "^5.0.2",
+    "joi": "^13.1.2",
+    "request": "^2.83.0"
+  },
+  "repository": "https://github.com/platdesign/node-nami-api-client.git"
+}
