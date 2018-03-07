@@ -11,9 +11,12 @@
   "version": "1.0.0",
   "dependencies": {
     "debug": "^3.1.0",
-    "hoek": "^5.0.2",
+    "hoek": "^5.0.3",
     "joi": "^13.1.2",
     "request": "^2.83.0"
   },
-  "repository": "https://github.com/platdesign/node-nami-api-client.git"
+  "repository": "https://github.com/platdesign/node-nami-api-client.git",
+  "publishConfig": {
+    "access": "public"
+  }
 }
